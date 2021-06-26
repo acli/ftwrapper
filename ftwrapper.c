@@ -1,4 +1,5 @@
 /* vi: set sw=3 ai sm: */
+/* Ambrose Li <ambrose.li@gmail.com>, June 26, 2021 */
 
 #include <ft2build.h>
 #include <freetype2/freetype.h>
